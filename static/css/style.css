@@ -10,6 +10,14 @@ html{
   visibility: hidden;
 }
 
+.anchor{
+  color: #45A29E;
+}
+.anchor:hover{
+  color: #66FCF1;
+  text-decoration: none;
+}
+
 /* Loader */
 
 .bg{
